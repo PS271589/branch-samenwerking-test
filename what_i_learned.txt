@@ -1,0 +1,17 @@
+Wat ik heb geleerd over Git - Workshops 1 t/m 3
+
+Wat ik heb geleerd:
+- Hoe je een branch aanmaakt en wisselt met git checkout -b
+- Hoe je bestanden klaarzet en opslaat met git add en git commit
+- Hoe je een branch naar de remote stuurt met git push
+- Wat het verschil is tussen een lokale en remote repository
+- Hoe je een branch samenvoegt met master via git merge
+- Wat een merge conflict is en hoe het ontstaat als twee mensen
+  hetzelfde bestand aanpassen
+
+Wat ik nog wil leren:
+- Hoe je een merge conflict stap voor stap oplost
+- Wat rebasing is en wanneer je dat gebruikt in plaats van mergen
+- Hoe pull requests werken en wat een code review inhoudt
+- Wat git stash doet en wanneer dat handig is
+- Hoe je een fout ongedaan maakt met git revert of git reset
